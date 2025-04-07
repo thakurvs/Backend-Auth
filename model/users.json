@@ -1,0 +1,15 @@
+[
+  {
+    "username": "Vishal",
+    "password": "$2b$10$beO8cHOvObg9i9JZlMehueNGbT15l60iNY66NDb6oV9NDybEmfoEq"
+  },
+  {
+    "username": "kanav",
+    "password": "$2b$10$Va.Pjuy822Z3SFuv8hclZ.FKAF3Q/ecCIzgx9k8USyhIG5gqHG1wi"
+  },
+  {
+    "username": "Shailesh",
+    "password": "$2b$10$waUdh3BtKAlIBR4hqHBiXOkWZHQR/tn3R5/nFzsMRIPBX9JlKDDLa",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlNoYWlsZXNoIiwiaWF0IjoxNzQyMDQzNTgzLCJleHAiOjE3NDIxMjk5ODN9.M2NKThzGumhY05NSR8EOj2UKtIkbvF8aT3ml9z5byRs"
+  }
+]
